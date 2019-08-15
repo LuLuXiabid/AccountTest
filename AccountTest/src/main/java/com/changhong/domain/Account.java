@@ -49,4 +49,16 @@ public class Account implements Serializable {
                 ", money=" + money +
                 '}';
     }
+    public  void  print(){
+        System.out.println(" git  push");
+        System.out.println(" git  push");
+        System.out.println(" git  push");
+        System.out.println(" git  push");
+        System.out.println(" git  push");
+        System.out.println(" git  push");
+
+    }
+
+
+
 }
